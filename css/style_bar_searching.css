@@ -1,0 +1,57 @@
+/* CSS Document */
+.div_tabel_penampil {
+	cursor:pointer;
+	display:block; 
+	width:auto; 
+	height:auto; 
+	overflow:auto;
+	margin-top:10px;
+	margin-right:10px;
+	margin-left:10px;
+	background-color:#dddddd;
+	border-radius: 5px 5px 5px 5px;
+	}
+#add, #cari {
+	padding:5px;
+	}
+#div_tabel_penampil table tr {
+	background-image: -webkit-linear-gradient(#ffffff, #cccccc);
+	background-image: -moz-linear-gradient(#ffffff, #cccccc);
+	background-image: -o-linear-gradient(#ffffff, #cccccc);
+	background-image: linear-gradient(#ffffff, #cccccc);
+	}
+#div_tabel_penampil table tr:hover {
+	box-shadow:0pt 3px 3px rgba(20, 20, 20, 1) inset;
+	background-image: -webkit-linear-gradient(#cccccc,#ffffff);
+	background-image: -moz-linear-gradient(#cccccc,#ffffff);
+	background-image: -o-linear-gradient(#cccccc,#ffffff);
+	background-image: linear-gradient(#cccccc,#ffffff);
+	}
+#div_tabel_penampil table td:hover {
+	box-shadow:0pt 0px 5px red ;
+	border:1px groove red;
+	}
+#kolom_cari {
+	box-shadow:0pt 3px 3px rgba(20, 20, 20, 0.5) inset;
+	border-radius:5px 5px 5px 5px;
+	height:25px;
+	width:40%;
+	}
+#button1, #button2, #button3{
+	cursor:pointer;
+	border-radius:5px 5px 5px 5px;
+	height:32px;
+	width:100px;
+	background-image: -webkit-linear-gradient(#ffffff, #cccccc);
+	background-image: -moz-linear-gradient(#ffffff, #cccccc);
+	background-image: -o-linear-gradient(#ffffff, #cccccc);
+	background-image: linear-gradient(#ffffff, #cccccc);
+	}
+#divjudul {
+	font:Geneva, Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-shadow:0pt 1px 2px rgba(0, 0, 0, 0.4);
+	padding:15px;
+	}

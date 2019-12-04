@@ -1,0 +1,1 @@
+<div class='img_judul2' align='center' ><div id='logoff' style='margin-top:5px;'><font color='#FFFFFF' style='font-family:Arial, Helvetica, sans-serif'><b>Log Off</b></font></div></div>

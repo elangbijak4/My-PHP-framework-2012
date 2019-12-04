@@ -1,0 +1,15 @@
+<div id='tentang' align='justify'>HandyCraft-yogya adalah sebuah situs web yang menyediakan tempat bagi para pengusaha muda yang kreatif dan inovatif
+untuk dapat memulai bisnis secara online dengan memanfaatkan fitur pada web ini yang menyediakan lapak-lapak jualan, yaitu lapak
+-lapak jualan yang menjual berbagai macam jenis kerajinan tangan yogya. Untuk mendaftar anda dapat langsung mengklik tombol
+daftar di situs ini. Go business, Go to glory</div>
+<div id='menu_bawah' align='left'>
+<ul>
+<li class='li_menu_bawah'>Mendaftar lapak</li>
+<li class='li_menu_bawah'>| Mendaftar pelanggan</li>
+<li class='li_menu_bawah'>| Web author</li>
+<li class='li_menu_bawah'>| Petunjuk dan aturan tentang lapak</li>
+<li class='li_menu_bawah'>| Petunjuk dan aturan tentang pelanggan</li>
+</ul>
+</div><!--menu_bawah-->
+<div id='footer' align='center'>&copy;Rizal-Handycraft-yogya-NIM:xxxxxxxxx Universitas Islam Indonesia Yogyakarta</div>
+<div id='pembungkus_footer' ></div> <!--pembungkus_footer-->
